@@ -14,4 +14,5 @@ int main(){
     }
     return 0;
     int k = 4;
+    int w = 5;
 }
