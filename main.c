@@ -13,4 +13,5 @@ int main(){
         printf("%d",c[i]);
     }
     return 0;
+    int k = 4;
 }
